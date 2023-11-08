@@ -3,10 +3,6 @@
 ### Software Developer
 ***
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afcarrera&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=afcarrera&layout=compact) 
-***
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=afcarrera&layout=compact)](https://github-readme-stats.vercel.app/api?username=afcarrera&layout=compact) 
-
-
 <!--
 **afcarrera/afcarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
